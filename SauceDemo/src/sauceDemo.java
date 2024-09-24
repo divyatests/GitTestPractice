@@ -56,6 +56,9 @@ public class sauceDemo {
 		Assert.assertEquals(message, "Thank you for your order!");
 		// To close current instance of browser
 		//driver.close();
+		
+		   System.out.println("to test more 1");
+		   System.out.println("to test more 2");
 
 	}
 
