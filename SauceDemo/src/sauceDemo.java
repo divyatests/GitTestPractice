@@ -91,7 +91,26 @@ public class sauceDemo {
 		   System.out.println("Test1");
 		   System.out.println("Test2");
 	}
+	
+	public void test()
+	{
+		
+		System.out.println("branch understanding");
+		
+	}
 
+	public void test1()
+	{
+		
+		System.out.println("branch understanding");
+		
+	}
+	public void BygitX()
+	{
+		
+		System.out.println("branch understanding");
+		
+	}
  
 
 }
